@@ -1,0 +1,64 @@
+.outer {
+  border: 5px sold black;
+}
+
+.box {
+  padding: 30px;
+  width: calc(90% - 60%);
+  background-color: crimson;
+  color: white;
+}
+
+.changed {
+  transform: matrix(1, 2, -1, 1, 80, 80);
+  background-color: pink;
+}
+/*h1 {
+  color: lightskyblue;
+}
+hr[<a href="github.com">] {
+  color: lightskyblue;
+}
+h2 {
+  color: lightgrey;
+}
+
+a {
+  color: indianred;
+}
+
+h6 {
+  color: red;
+}
+h5 {
+  color: grey;
+}
+h4 {
+  color: limegreen;
+}
+h3 {
+  color: lightblue;
+}
+h2 {
+  color: lightcoral;
+}*/
+a[href='https://github.com/']
+{
+  color: lightsalmon;
+}
+a[href='https://Mdn.com/']
+{
+  color: lightsalmon;
+}
+a[href='https://www.w3schools.com/']
+{
+  color: lightsalmon;
+}
+a[href='https://en.wikipedia.org/wiki/Main_Page']
+{
+  color: lightsalmon;
+}
+a[href='https://www.google.com/']
+{
+  color: lightsalmon;
+}
